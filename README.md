@@ -12,8 +12,8 @@ java -version
 If you do not have Java installed, or if your version is older than 17, you can download the latest version of Java from Oracle's official website or by clicking [here](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html).
 
 ## Download TempConvertPro:
-- Go to the [Releases](https://github.com/c-mcbride/EZGrader/releases/tag/v1.0)
-- Download the  file from the latest release.
+- Go to the [Releases](https://github.com/c-mcbride/TempConvertPro/releases/tag/v1.0)
+- Download the `TempConvertPro.jar` file from the latest release.
 
 ## Run TempConvertPro:
 
