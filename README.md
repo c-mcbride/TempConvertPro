@@ -27,5 +27,4 @@ java -jar TempConvertPro.jar
 Open TempConvertPro using one of the methods described above.
 Enter a temperature in either the Fahrenheit or Celsius field.
 Press 'Calculate' to convert the temperature to the other unit.
-Use the 'Reset' button to clear all fields and perform a new conversion.
-If the application does not start, ensure you have the correct version of Java installed and that the JAR file permissions are correctly set (executable).
+Use the 'Reset' button to clear all fields and perform a new conversion. If the application does not start, ensure you have the correct version of Java installed and that the JAR file permissions are correctly set (executable).
